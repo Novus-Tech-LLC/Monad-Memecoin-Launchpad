@@ -258,7 +258,7 @@ For more details, see contribution guidelines (if available).
 - [README.md](./README.md) - Main documentation
 - [README_EN.md](./README_EN.md) - English documentation
 - [test/README.md](./test/README.md) - Testing documentation
-- [GitHub Repository](https://github.com/Novus-Tech-LLC/MNad.Fun-SmartContract) - Source code
+- [GitHub Repository](https://github.com/Novus-Tech-LLC/Monad-Memecoin-Launchpad) - Source code
 
 ---
 
