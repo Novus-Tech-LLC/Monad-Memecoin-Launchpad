@@ -248,10 +248,10 @@ For more details, see contribution guidelines (if available).
 
 ### 📬 Say hello
 
-- [Whatsapp](https://wa.me/16286666724?text=Hello%20there)
-- [Telegram](https://t.me/angel001000010100)
-- [Discord](https://discordapp.com/users/1114372741672488990)
-- [Email](mailto:10xAngel.dev@gmail.com?subject=Hello%20Angel&body=Hi%20Angel%2C%20I%20found%20you%20on%20GitHub!)
+- [Whatsapp](https://wa.me/14105015750)
+- [Telegram](https://wa.me/14105015750)
+- [Discord](https://discordapp.com/users/985432160498491473)
+- [Twitter](https://x.com/novustch)
 
 ## Additional Resources
 

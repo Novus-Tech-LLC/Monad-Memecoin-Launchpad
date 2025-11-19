@@ -317,10 +317,10 @@ If a CONTRIBUTING guide is present in the repository, please follow it as the so
 
 ### Say hello / Reach the maintainer
 
-- **Whatsapp**: `https://wa.me/16286666724?text=Hello%20there`  
-- **Telegram**: `https://t.me/angel001000010100`  
-- **Discord**: `https://discordapp.com/users/1114372741672488990`  
-- **Email**: `mailto:10xAngel.dev@gmail.com?subject=Hello%20Angel&body=Hi%20Angel%2C%20I%20found%20you%20on%20GitHub!`
+- **Whatsapp**: `https://wa.me/https://wa.me/14105015750`  
+- **Telegram**: `https://t.me/novustch`  
+- **Discord**: `https://discordapp.com/users/985432160498491473`  
+- **Twitter**: `https://x.com/novustch`
 
 For **security disclosures**, please use email or a direct private channel rather than opening a public issue.
 
@@ -585,10 +585,10 @@ For more details, see the contribution guidelines (if available).
 
 ## Contact Information
 
-- [Whatsapp](https://wa.me/16286666724?text=Hello%20there)
-- [Telegram](https://t.me/angel001000010100)
-- [Discord](https://discordapp.com/users/1114372741672488990)
-- [Email](mailto:10xAngel.dev@gmail.com?subject=Hello%20Angel&body=Hi%20Angel%2C%20I%20found%20you%20on%20GitHub!)
+- [Whatsapp](https://wa.me/14105015750)
+- [Telegram](https://wa.me/14105015750)
+- [Discord](https://discordapp.com/users/985432160498491473)
+- [Twitter](https://x.com/novustch)
 
 ## Additional Resources
 
